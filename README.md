@@ -1,2 +1,1 @@
-# Movie-Tickets-Booking-System
-Project on Movie Tickets Booking in C++
+# Movie Tickets Booking System in C++
