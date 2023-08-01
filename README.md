@@ -41,15 +41,6 @@ To get started with the Movie Tickets Booking System project, follow these steps
 
 ## Features
 
-The Movie Tickets Booking System project includes the following features:
-
-- User-friendly interface to interact with the movie ticket booking system.
-- Options for selecting movies, dates, and seats for booking.
-- Ticket reservation and confirmation.
-- Record maintenance for movie details and booking history.
-
-## Additional Features
-
 The Movie Tickets Booking System project also includes the following additional features:
 
 - **Seat Selection for Movie**: After selecting a movie, users can choose their preferred seats from a seating chart displayed with the iomanip library.
